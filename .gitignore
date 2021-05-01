@@ -6,8 +6,7 @@ __pycache__/
 # C extensions
 *.so
 
-# Distribution / packaging
-.Python
+# Mac Files
 build/
 develop-eggs/
 dist/
